@@ -1,6 +1,6 @@
 # Projet Floppa - TP2
 
-- **📅 Fin: 3 mars 2026 à 23:59**
+- **📅 Fin: 20 octobre 2026 à 23:59**
 - **Tag: `remise2`**
 
 ## Requis fonctionnels (features)
